@@ -1,1 +1,1 @@
-# DSA-in-Java-Leetcode-
+# Leetcode-DSA
